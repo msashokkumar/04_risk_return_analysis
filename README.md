@@ -75,7 +75,7 @@ Once started successfully, the terminal will look like below and a browser will 
 
 The jupyter homepage will look like as follows:
 
-![Jupyter Lab Homepage](/media/images/02_jupyter_lab_homepage.png?raw=true "Jupyter homepage.")
+![Jupyter Lab Homepage](/media/images/02_jupyter_labs_homepage.png?raw=true "Jupyter homepage.")
 
 From the file browser on the left side, open risk_return_analysis.ipynb.
 
