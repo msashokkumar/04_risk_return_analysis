@@ -5,7 +5,7 @@ A one-stop online investment solution for retirement portfolios that's both inex
 
 ## Technologies
 
-Crypto Arbitrage is a Jupyter notebook built with the following technologies:
+Risk Return Analysis is a Jupyter notebook built with the following technologies:
 
 ### Language
 
